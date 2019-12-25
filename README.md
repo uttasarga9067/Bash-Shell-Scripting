@@ -6,5 +6,3 @@ The File organisefiles.sh contains a shell script which can be used in order to 
 The Script includes the Automated process of copying .pdf, .txt, and .jpg files in a directory which is created according to the file type.
 
 ### The Word Document Contains Step by Step procedure to follow the same.
-
-## Always Automate
